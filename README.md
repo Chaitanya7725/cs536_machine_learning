@@ -1,2 +1,3 @@
 # cs536_machine_learning
-Assignment and Projects
+
+1) Calculated the testing dataset accuracy(by Mujiba Shaima)
